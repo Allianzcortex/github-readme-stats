@@ -5,7 +5,7 @@
 ## The repos I created
 | ID |                                    REPO                                    |   START    |   UPDATE   |  LAUGUAGE  | STARS |
 |----|----------------------------------------------------------------------------|------------|------------|------------|-------|
-|  1 | [running_page](https://github.com/yihong0618/running_page)                 | 2020-09-17 | 2020-12-27 | Python     |   950 |
+|  1 | [running_page](https://github.com/yihong0618/running_page)                 | 2020-09-17 | 2020-12-28 | Python     |   949 |
 |  2 | [2020](https://github.com/yihong0618/2020)                                 | 2020-01-10 | 2020-12-26 | C          |    97 |
 |  3 | [gaycore](https://github.com/yihong0618/gaycore)                           | 2019-02-18 | 2020-12-10 | Python     |    89 |
 |  4 | [gitblog](https://github.com/yihong0618/gitblog)                           | 2019-07-18 | 2020-12-24 | Python     |    77 |
@@ -14,8 +14,8 @@
 |  7 | [gcores_calendar](https://github.com/yihong0618/gcores_calendar)           | 2020-08-24 | 2020-12-28 | JavaScript |    19 |
 |  8 | [blog](https://github.com/yihong0618/blog)                                 | 2020-06-22 | 2020-12-27 | JavaScript |     9 |
 |  9 | [Runtastic](https://github.com/yihong0618/Runtastic)                       | 2020-07-24 | 2020-11-16 | Python     |     7 |
-| 10 | [Python365](https://github.com/yihong0618/Python365)                       | 2019-09-05 | 2020-10-27 | Python     |     3 |
-| 11 | [my_github](https://github.com/yihong0618/my_github)                       | 2020-12-24 | 2020-12-28 | Go         |     2 |
+| 10 | [my_github](https://github.com/yihong0618/my_github)                       | 2020-12-24 | 2020-12-28 | Go         |     4 |
+| 11 | [Python365](https://github.com/yihong0618/Python365)                       | 2019-09-05 | 2020-10-27 | Python     |     3 |
 | 12 | [yihong0618](https://github.com/yihong0618/yihong0618)                     | 2020-07-16 | 2020-12-11 | md         |     1 |
 | 13 | [edocteel001](https://github.com/yihong0618/edocteel001)                   | 2019-11-12 | 2020-05-18 | JavaScript |     1 |
 | 14 | [2021](https://github.com/yihong0618/2021)                                 | 2020-12-21 | 2020-12-21 | md         |     0 |
@@ -36,26 +36,27 @@
 |  6 | [kb](https://github.com/gnebbia/kb)                                       | 2020-09-21 | 2020-09-23 |       3 |
 |  7 | [iredis](https://github.com/laixintao/iredis)                             | 2019-12-30 | 2020-09-16 |       2 |
 |  8 | [activities](https://github.com/flopp/activities)                         | 2020-07-09 | 2020-07-14 |       2 |
-|  9 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 |       1 |
-| 10 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 |       1 |
-| 11 | [LearnJapan](https://github.com/wizicer/LearnJapan)                       | 2020-03-31 | 2020-03-31 |       1 |
-| 12 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                     | 2019-09-25 | 2019-09-25 |       1 |
+|  9 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 |       1 |
+| 10 | [LearnJapan](https://github.com/wizicer/LearnJapan)                       | 2020-03-31 | 2020-03-31 |       1 |
+| 11 | [GadioVideo](https://github.com/rabbitism/GadioVideo)                     | 2019-09-25 | 2019-09-25 |       1 |
+| 12 | [build-your-own-vue](https://github.com/jackiewillen/build-your-own-vue)  | 2020-01-16 | 2020-01-16 |       1 |
 | 13 | [TopList](https://github.com/tophubs/TopList)                             | 2019-08-19 | 2019-08-19 |       1 |
-| 14 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 |       1 |
-| 15 | [help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)         | 2020-02-04 | 2020-02-04 |       1 |
-| 16 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 |       1 |
+| 14 | [py-staticmaps](https://github.com/flopp/py-staticmaps)                   | 2020-09-20 | 2020-09-20 |       1 |
+| 15 | [highlight](https://github.com/wenyan-lang/highlight)                     | 2020-09-08 | 2020-09-08 |       1 |
+| 16 | [awesome-cn-cafe-web](https://github.com/antfu/awesome-cn-cafe-web)       | 2020-08-18 | 2020-08-18 |       1 |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [iPERCore](https://github.com/iPERDance/iPERCore)                             | 2020-12-14 | Python           | 2020-12-28   |
-|  2 | [weekly.manong.io](https://github.com/toutiaoio/weekly.manong.io)             | 2019-06-27 | md               | 2020-12-27   |
-|  3 | [ABD](https://github.com/malrev/ABD)                                          | 2020-02-14 | Jupyter Notebook | 2020-12-26   |
-|  4 | [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)             | 2019-10-17 | Python           | 2020-12-28   |
-|  5 | [aioshadowsocks](https://github.com/Ehco1996/aioshadowsocks)                  | 2019-07-05 | Python           | 2020-12-27   |
-|  6 | [headless-recorder](https://github.com/checkly/headless-recorder)             | 2020-10-17 | JavaScript       | 2020-12-27   |
-|  7 | [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)                            | 2019-07-04 | JavaScript       | 2020-12-27   |
-|  8 | [break_arcade_games_out](https://github.com/DanZaidan/break_arcade_games_out) | 2019-11-27 | C                | 2020-12-10   |
-|  9 | [read_requests](https://github.com/wangshunping/read_requests)                | 2018-10-17 | md               | 2020-12-26   |
-| 10 | [docker-mindmap](https://github.com/Weiwf/docker-mindmap)                     | 2019-05-16 | md               | 2020-10-30   |
+| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [chawyehsu.com](https://github.com/chawyehsu/chawyehsu.com)                             | 2020-09-08 | JavaScript | 2020-12-28   |
+|  2 | [guide](https://github.com/uber-go/guide)                                               | 2019-10-12 | md         | 2020-12-28   |
+|  3 | [VRouter](https://github.com/overcache/VRouter)                                         | 2019-06-18 | JavaScript | 2020-12-23   |
+|  4 | [CatsAction](https://github.com/boyaziqi/CatsAction)                                    | 2020-04-20 | CSS        | 2020-11-06   |
+|  5 | [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)       | 2018-11-12 | Python     | 2020-12-28   |
+|  6 | [Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) | 2018-04-09 | Python     | 2020-12-28   |
+|  7 | [flask4fit](https://github.com/quentinck/flask4fit)                                     | 2020-10-11 | Python     | 2020-10-11   |
+|  8 | [YuBlog](https://github.com/Blackyukun/YuBlog)                                          | 2019-09-25 | Python     | 2020-12-24   |
+|  9 | [daily_algorithms](https://github.com/shidenggui/daily_algorithms)                      | 2019-11-05 | C          | 2020-12-05   |
+| 10 | [alfred-bear](https://github.com/chrisbro/alfred-bear)                                  | 2019-09-12 | Python     | 2020-12-17   |
+
 <!--END_SECTION:my_github-->
