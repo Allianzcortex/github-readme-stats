@@ -19,8 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Write README
-        uses: yihong0618/my_github@v1
+      - name: My GitHub Status
+        uses: yihong0618/my_github@yihong0618/my_github@v1
         with:
           TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
